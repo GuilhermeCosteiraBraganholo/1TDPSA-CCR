@@ -20,8 +20,10 @@ Benéfico para: Respostas Imediatas, Informações contextuais, Redução de Err
 
 Os alertas em tempo real são fundamentais para transformar a forma como o CCO opera, criando um ambiente mais responsivo e seguro. A capacidade de agir rapidamente com informações precisas não apenas melhora a eficácia operacional, mas também contribui para uma cultura de segurança e eficiência.
 
+## Integrantes - 
+Guilherme Costeira Braganholo (RM560628, turma:1TDSPA) -[https://github.com/GuilhermeCosteiraBraganholo](link) 
+Gabriel Nakamura Ogata (RM560671, turma:1DTSPA) [https://github.com/GabrielNakamura123456](link) | [LinkedIn](link) -  
+Julio Cesar Dias Vilella (RM560494, turma:1DTSPA) - Nome 2 (RM, turma) - [https://github.com/juliovilella8](link) | [LinkedIn](link)
 
 
-
-]
 
