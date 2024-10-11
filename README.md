@@ -1,4 +1,4 @@
-# Criar um sistema de alerta automatizado para o Centro de Controle de Operações (CCO) 
+## Criar um sistema de alerta automatizado para o Centro de Controle de Operações (CCO) 
 
 ## Descrição
 O Sistema de Alerta Automatizado para o Centro de Controle de Operações (CCO) é uma solução inovadora destinada a aprimorar a segurança e a eficiência operacional em ambientes críticos.
@@ -8,13 +8,13 @@ Este sistema tem como objetivo monitorar continuamente as operações em tempo r
 - Figma
 - GitHub
 
-  #Proposta
+ ##Proposta
   Criar um sistema de alerta automatizado para o Centro de Controle de Operações e Alertas em Tempo Real para Decisões Rápidas
 
 
 O sistema de alerta automatizado para o Centro de Controle de Operações (CCO) oferece uma solução inovadora que permite a detecção e notificação instantânea de incidentes e anomalias. Isso capacita os operadores a tomarem decisões rápidas e informadas, minimizando riscos e aumentando a eficiência operacional.
 
-#Usando 
+##Usando 
 Tecnologia de Sensores, como de movimento, comunicação. 
 Plataforma de Software, que processa e analise todos os dados recebidos, e também a Interface do Usuario, para que ele que possa reportar algum alerta e também receber e se manter conectado e Seguro.
 
@@ -28,7 +28,7 @@ Redução de Erros
 Aumento de Segurança.
 
 
-#Alertas 
+##Alertas 
 Os alertas em tempo real são fundamentais para transformar a forma como o CCO opera, criando um ambiente mais responsivo e seguro. A capacidade de agir rapidamente com informações precisas não apenas melhora a eficácia operacional, mas também contribui para uma cultura de segurança e eficiência.
 
 ## Integrantes - 
