@@ -33,7 +33,7 @@ Os alertas em tempo real são fundamentais para transformar a forma como o CCO o
 
 ## Integrantes - 
 Guilherme Costeira Braganholo (RM560628, turma:1TDSPA) -[https://github.com/GuilhermeCosteiraBraganholo](link) ![Participante 1](guilhermecosteira.jpg)
-Gabriel Nakamura Ogata (RM560671, turma:1DTSPA) [https://github.com/GabrielNakamura123456](link) | [LinkedIn](link) -  ![Participante 2](gabrielnakamura.jpg)
+      Gabriel Nakamura Ogata (RM560671, turma:1DTSPA) [https://github.com/GabrielNakamura123456](link) | [LinkedIn](link) -  ![Participante 2](gabrielnakamura.jpg)
 Julio Cesar Dias Vilella (RM560494, turma:1DTSPA) - Nome 2 (RM, turma) - [https://github.com/juliovilella8](link) | [LinkedIn](link) ![Participante 3](juliocesar.jpg)
 
 
