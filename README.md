@@ -10,8 +10,6 @@ Este sistema tem como objetivo monitorar continuamente as operações em tempo r
 
  ##Proposta
   Criar um sistema de alerta automatizado para o Centro de Controle de Operações e Alertas em Tempo Real para Decisões Rápidas
-
-
 O sistema de alerta automatizado para o Centro de Controle de Operações (CCO) oferece uma solução inovadora que permite a detecção e notificação instantânea de incidentes e anomalias. Isso capacita os operadores a tomarem decisões rápidas e informadas, minimizando riscos e aumentando a eficiência operacional.
 
 ##Usando 
