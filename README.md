@@ -1,44 +1,41 @@
-## PROPOSTA 
-Criar um sistema de alerta automatizado para o Centro de Controle de Operações (CCO) 
+Sprint 3
 
-## Descrição
-O Sistema de Alerta Automatizado para o Centro de Controle de Operações (CCO) é uma solução inovadora destinada a aprimorar a segurança e a eficiência operacional em ambientes críticos.
-Este sistema tem como objetivo monitorar continuamente as operações em tempo real, detectando eventos anômalos e situações de emergência que possam impactar o funcionamento da organização.
+📌 Descrição
 
-## Tecnologias
-- Figma
-- GitHub
+Este projeto foi desenvolvido utilizando Next.js e TypeScript, seguindo as diretrizes estabelecidas nas Sprints 1 e 2. A estrutura foi adaptada para proporcionar modularidade, reutilização de componentes e responsividade para diferentes dispositivos (desktop e tablet). A estilização foi feita exclusivamente com Tailwind CSS.
 
+🚀 Tecnologias Utilizadas
 
-# Proposta
-  Criar um sistema de alerta automatizado para o Centro de Controle de Operações e Alertas em Tempo Real para Decisões Rápidas
-O sistema de alerta automatizado para o Centro de Controle de Operações (CCO) oferece uma solução inovadora que permite a detecção e notificação instantânea de incidentes e anomalias. Isso capacita os operadores a tomarem decisões rápidas e informadas, minimizando riscos e aumentando a eficiência operacional.
+Next.js (Framework React para aplicações web)
 
-## Usando 
-Tecnologia de Sensores, como de movimento, comunicação. 
-Plataforma de Software, que processa e analise todos os dados recebidos, e também a Interface do Usuario, para que ele que possa reportar algum alerta e também receber e se manter conectado e Seguro.
+TypeScript (Tipagem estática para maior segurança no código)
 
-Banco de Dados, para manter todos os alertas e acontecimentos existentes e permitindo análises futuras e a identificação desses padrões.
+Tailwind CSS (Estilização otimizada e responsiva)
 
+Git/GitHub (Versionamento de código e colaboração)
 
-## Benéfico 
-Respostas Imediatas
-Informações contextuais
-Redução de Erros
-Aumento de Segurança.
+📂 Estrutura do Projeto
 
+🛠 Instalação e Execução
 
-## Alertas 
-Os alertas em tempo real são fundamentais para transformar a forma como o CCO opera, criando um ambiente mais responsivo e seguro. A capacidade de agir rapidamente com informações precisas não apenas melhora a eficácia operacional, mas também contribui para uma cultura de segurança e eficiência.
+Para rodar o projeto localmente, siga os passos abaixo:
 
-## Figma
-[Visualizar Projeto no Figma](https://www.figma.com/design/eu8gWDGMZPDdpbegu3wmsP/Untitled?node-id=0-1&t=zny5aq9oZ6J1pndz-1)
+Clone o repositório:
 
-## Integrantes
-- Guilherme Costeira Braganholo (RM560628, turma:1TDSPA) - [GitHub](https://github.com/GuilhermeCosteiraBraganholo) | [LinkedIn](https://www.linkedin.com/in/guilherme-braganholo-984718327/) ![Participante 1](guilhermecosteira.jpg)
-- Gabriel Nakamura Ogata (RM560671, turma:1DTSPA) - [GitHub](https://github.com/GabrielNakamura123456) | [LinkedIn](https://www.linkedin.com/in/gabriel-ogata-912367328/) ![Participante 2](gabrielnakamura.jpg)
-- Julio Cesar Dias Vilella (RM560494, turma:1DTSPA) - [GitHub](https://github.com/juliovilella8) | [LinkedIn](https://br.linkedin.com/in/julio-vilella-1b9367328) ![Participante 3](juliocesar.jpg)
+Acesse a pasta do projeto:
+
+Instale as dependências:
+
+Inicie o servidor de desenvolvimento:
+
+Acesse a aplicação no navegador:
+
+🌎 Responsividade
+
+O projeto foi estruturado para ser responsivo em desktop e tablet, garantindo uma boa experiência de usuário em diferentes tamanhos de tela.
 
 
-
-
+👥 Equipe e Contribuição
+Julio César Dias Vilella RM560494
+Guilherme Costeira Braganholo RM560628
+Gabriel Nakamura Ogata RM560671
